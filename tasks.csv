@@ -1,0 +1,6 @@
+id,client,task,owner,due_date,status
+1,Acme Media,Deliver edited property photos,Bassam,2026-10-27,open
+2,Northwind Realty,Confirm vendor invoice payment,Bassam,2026-10-26,open
+3,Harbor Homes,Send weekly status report,Bassam,2026-10-30,open
+4,BluePeak Studios,Close onboarding checklist,Bassam,2026-11-05,open
+5,Acme Media,Archive completed shoot files,Bassam,2026-10-20,done
